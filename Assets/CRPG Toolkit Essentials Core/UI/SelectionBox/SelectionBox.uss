@@ -1,0 +1,17 @@
+.SelectionBox {
+    position: absolute;
+    border-width: 1px;
+    border-left-color: rgb(0, 217, 31);
+    border-right-color: rgb(0, 217, 31);
+    border-top-color: rgb(0, 217, 31);
+    border-bottom-color: rgb(0, 217, 31);
+    background-color: rgba(33, 106, 30, 0.36);
+    display: flex;
+    width: 100px;
+    height: 100px;
+    transition-property: all, visibility;
+    transition-duration: 0s, 0s;
+    transition-timing-function: ease, ease;
+    transition-delay: 0s, 0s;
+    visibility: hidden;
+}

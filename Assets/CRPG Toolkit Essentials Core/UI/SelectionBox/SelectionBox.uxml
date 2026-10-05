@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/CRPG%20Toolkit%20Essentials%20Core/UI/SelectionBox/SelectionBox.uss?fileID=7433441132597879392&amp;guid=c4dfba8908d4bff448d187f1c620d2f3&amp;type=3#SelectionBox"/>
+    <ui:VisualElement name="SelectionBox" class="SelectionBox"/>
+</ui:UXML>
